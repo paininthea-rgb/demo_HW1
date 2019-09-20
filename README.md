@@ -1,1 +1,5 @@
-# Hoang_C_Brown_G_HW1
+# My Team Awesome Bio Page
+
+## Learn all about our awesome team
+
+the weather is pretty nice today
